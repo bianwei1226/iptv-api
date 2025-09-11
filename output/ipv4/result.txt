@@ -1,76 +1,41 @@
 🕘️更新时间,#genre#
-2025-09-11 13:51:22,url
+2025-09-11 14:33:42,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 
 📡卫视频道,#genre#
+北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
+河南卫视,http://lxajh.top/tv/hn.php?id=hnws
 
 ☘️上海频道,#genre#
+上海第一财经,https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
+新闻综合,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
+新闻综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
+新闻综合,http://p2.vzan.com/slowlive/596867413819827251/live.m3u8
+新闻综合,https://tvfile.scjgtv.cn:443/nmip-media/channellive/channel104126/playlist.m3u8"
+第一财经,http://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
+第一财经,http://a1live.livecdn.yicai.com/live/radio_tv.m3u8
+纪实人文,http://8.138.7.223/tv/shtv.php?id=xjs
+都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
 
 🎬电影频道,#genre#
-
-🈳无结果频道,#genre#
-广东卫视,url
-香港卫视,url
-浙江卫视,url
-湖南卫视,url
-北京卫视,url
-湖北卫视,url
-黑龙江卫视,url
-安徽卫视,url
-重庆卫视,url
-东方卫视,url
-东南卫视,url
-甘肃卫视,url
-广西卫视,url
-贵州卫视,url
-海南卫视,url
-河北卫视,url
-河南卫视,url
-吉林卫视,url
-江苏卫视,url
-江西卫视,url
-辽宁卫视,url
-内蒙古卫视,url
-宁夏卫视,url
-青海卫视,url
-山东卫视,url
-山西卫视,url
-陕西卫视,url
-四川卫视,url
-深圳卫视,url
-三沙卫视,url
-天津卫视,url
-西藏卫视,url
-新疆卫视,url
-云南卫视,url
-七彩戏剧,url
-上海外语,url
-上海新闻综合,url
-上海第一财经,url
-上海纪实,url
-上海都市,url
-东方影视,url
-动漫秀场,url
-哈哈炫动,url
-新闻综合,url
-欢笑剧场,url
-法治天地,url
-生活时尚,url
-第一财经,url
-纪实人文,url
-都市剧场,url
-CHC家庭影院,url
-CHC动作电影,url
-淘剧场,url
-淘娱乐,url
-淘电影,url
-黑莓电影,url
-纬来电影,url
-靖天映画,url
-靖天戏剧,url
-经典电影,url
-天映经典,url
-无线星河,url
-星空卫视,url
-东森电影,url
-东森洋片,url
-东森超视,url
+CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+CHC高清电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv
+CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
+CHC高清电影,http://120.198.95.220:9901/tsfile/live/1038_1.m3u8?key=txiptv
+CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
+CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
+CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
+CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil
+靖天映画,https://cdn.iptv8k.top/dl/jrys.php?id=320&time=20240926215313&ip=111.229.253.40
+靖天映画,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv055/index.m3u8?proxy=true
+靖天戏剧,https://cdn.iptv8k.top/dl/jrys.php?id=318&time=20240926215313&ip=111.229.253.40
+靖天戏剧,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv058/index.m3u8?proxy=true
+经典电影,https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40
+天映经典,https://cdn.iptv8k.top/dl/jrys.php?id=71&time=20240926215313&ip=111.229.253.40
+星空卫视,https://cdn.iptv8k.top/dl/jrys.php?id=21&time=20240926215313&ip=111.229.253.40
+东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40
+东森电影,https://pixman.mytvsuper.com.mp/Smart.php?id=ettvmovie
+龙祥电影,https://pixman.mytvsuper.com.mp/Smart.php?id=lungxiangtime_twn
+东森洋片,https://cdn.iptv8k.top/dl/jrys.php?id=232&time=20240926215313&ip=111.229.253.40
+东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40#rtmp://f13h.mine.nu/sat/tv331#rtmp://f13h.mine.nu/sat/tv331
+东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8
