@@ -1,56 +1,28 @@
 🕘️更新时间,#genre#
-2025-09-11 10:44:38,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+2025-09-11 12:08:47,url
 
 📡卫视频道,#genre#
-北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
-河南卫视,http://lxajh.top/tv/hn.php?id=hnws
 
 ☘️上海频道,#genre#
-上海第一财经,https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
-全纪实,http://139.196.151.191/rtp/239.45.3.135:5140
-新闻综合,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
-新闻综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
-新闻综合,http://p2.vzan.com/slowlive/596867413819827251/live.m3u8
-新闻综合,https://tvfile.scjgtv.cn:443/nmip-media/channellive/channel104126/playlist.m3u8&quot;
-第一财经,http://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
-第一财经,http://a1live.livecdn.yicai.com/live/radio_tv.m3u8
-纪实人文,http://8.138.7.223/tv/shtv.php?id=xjs
-都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
+
+🌊港·澳·台,#genre#
 
 🎬电影频道,#genre#
-CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
-CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
-CHC高清电影,http://120.198.95.220:9901/tsfile/live/1038_1.m3u8?key=txiptv
-CHC高清电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv
-CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
-CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
-CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
-CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil
-淘剧场,http://ydl.yueyaoxian.top:8686/rtp/239.3.1.95:8001
-靖天映画,https://cdn.iptv8k.top/dl/jrys.php?id=320&time=20240926215313&ip=111.229.253.40
-靖天映画,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv055/index.m3u8?proxy=true
-靖天戏剧,https://cdn.iptv8k.top/dl/jrys.php?id=318&time=20240926215313&ip=111.229.253.40
-靖天戏剧,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv058/index.m3u8?proxy=true
-经典电影,https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40
-天映经典,https://cdn.iptv8k.top/dl/jrys.php?id=71&time=20240926215313&ip=111.229.253.40
-星空卫视,https://cdn.iptv8k.top/dl/jrys.php?id=21&time=20240926215313&ip=111.229.253.40
-东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40
-东森电影,http://iptv.4666888.xyz/iptv.php?id=20211
-东森电影,https://pixman.mytvsuper.com.mp/Smart.php?id=ettvmovie
-龙祥电影,https://pixman.mytvsuper.com.mp/Smart.php?id=lungxiangtime_twn
-东森洋片,https://cdn.iptv8k.top/dl/jrys.php?id=232&time=20240926215313&ip=111.229.253.40
-东森超视,rtmp://f13h.mine.nu:1935:1935/sat/tv331
-东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40#rtmp://f13h.mine.nu/sat/tv331#rtmp://f13h.mine.nu/sat/tv331
-东森超视,rtmp://116.93.98.236/sat/tv331.flv
-东森超视,rtmp://60.248.77.83/sat/tv331
-东森超视,rtmp://9hv9.mine.nu/sat/tv331.flv
+
+🎥咪咕直播,#genre#
+
+🏀体育频道,#genre#
+
+🎮游戏频道,#genre#
+
+🎵音乐频道,#genre#
 
 🈳无结果频道,#genre#
 广东卫视,url
 香港卫视,url
 浙江卫视,url
 湖南卫视,url
+北京卫视,url
 湖北卫视,url
 黑龙江卫视,url
 安徽卫视,url
@@ -62,6 +34,7 @@ CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784
 贵州卫视,url
 海南卫视,url
 河北卫视,url
+河南卫视,url
 吉林卫视,url
 江苏卫视,url
 江西卫视,url
@@ -81,28 +54,120 @@ CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784
 云南卫视,url
 七彩戏剧,url
 上海外语,url
-上海教育,url
 上海新闻综合,url
+上海第一财经,url
 上海纪实,url
 上海都市,url
 东方影视,url
 东方财经,url
 动漫秀场,url
 哈哈炫动,url
-嘉定电视台,url
-崇明电视台,url
+新闻综合,url
 欢笑剧场,url
 法治天地,url
 生活时尚,url
-金山电视台,url
+第一财经,url
+纪实人文,url
+都市剧场,url
+翡翠台,url
+明珠台,url
+凤凰中文,url
+凤凰资讯,url
+凤凰香港,url
+凤凰卫视,url
+TVBS亚洲,url
+香港卫视,url
+纬来体育,url
+纬来育乐,url
+J2,url
+Viutv,url
+三立台湾,url
+无线新闻,url
+三立新闻,url
+东森综合,url
+东森超视,url
+东森电影,url
+Now剧集,url
+靖天资讯,url
 CHC家庭影院,url
 CHC动作电影,url
+淘剧场,url
 淘娱乐,url
 淘电影,url
 NewTV惊悚悬疑,url
 NewTV动作电影,url
 黑莓电影,url
 纬来电影,url
-IPTV经典电影,url
+靖天映画,url
+靖天戏剧,url
+经典电影,url
+天映经典,url
 无线星河,url
-私人影院,url
+星空卫视,url
+东森电影,url
+东森洋片,url
+东森超视,url
+咪咕直播2,url
+咪咕直播3,url
+咪咕直播4,url
+咪咕直播5,url
+咪咕直播6,url
+咪咕直播7,url
+咪咕直播8,url
+咪咕直播9,url
+咪咕直播10,url
+咪咕直播11,url
+咪咕直播12,url
+咪咕直播13,url
+咪咕直播14,url
+咪咕直播15,url
+咪咕直播16,url
+咪咕直播17,url
+咪咕直播18,url
+咪咕直播19,url
+咪咕直播20,url
+咪咕直播21,url
+咪咕直播22,url
+咪咕直播23,url
+咪咕直播24,url
+咪咕直播25,url
+咪咕直播26,url
+咪咕直播27,url
+咪咕直播28,url
+咪咕直播29,url
+咪咕直播30,url
+咪咕直播31,url
+咪咕直播32,url
+咪咕直播33,url
+咪咕直播34,url
+咪咕直播35,url
+咪咕直播36,url
+咪咕直播37,url
+咪咕直播38,url
+CCTV-5,url
+CCTV-5+,url
+广东体育,url
+纬来体育,url
+五星体育,url
+劲爆体育,url
+爱体育,url
+超级体育,url
+精品体育,url
+广州竞赛,url
+辽宁体育,url
+山东体育,url
+江苏体育,url
+安徽综艺体育,url
+睛彩篮球,url
+睛彩广场舞,url
+风云足球,url
+魅力足球,url
+天元围棋,url
+快乐垂钓,url
+JJ斗地主,url
+游戏风云,url
+电竞天堂,url
+爱电竞,url
+CCTV-15,url
+风云音乐,url
+音乐广播,url
